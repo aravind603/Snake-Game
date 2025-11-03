@@ -74,7 +74,9 @@ Controls
 Key	Action
 
 Arrow Keys	Move the snake
+
 Spacebar	Pause / Resume
+
 Esc	Exit the game
 
 
@@ -97,5 +99,4 @@ This project is open-source and free to use for educational and personal purpose
 
 Author
 
-Your Name
-GitHub: https://github.com/aravind603
+https://github.com/aravind603
